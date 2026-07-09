@@ -1,1 +1,1 @@
-these are form my daily learning learning 
+This repo carries my ML learning
