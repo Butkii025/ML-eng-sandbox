@@ -1,4 +1,4 @@
-# Machine Learning Projects Repository
+# Machine Learning Sandbox
 
 This repository contains a collection of machine learning work, organized into folders by project type — ranging from algorithms implemented from scratch, to applied assignments on real-world datasets, to a focused model comparison on a medical dataset.
 
